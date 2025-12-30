@@ -22,11 +22,6 @@ Bu laboratuvar çalışması aşağıdaki konuları kapsamaktadır:
 
 ---
 
-## GitHub
-- https://github.com/240404803-BHY/lab-13.git
-
----
-
 ## Kullanılan Teknolojiler
 
 - React Native
